@@ -1,16 +1,15 @@
 🕘️更新时间,#genre#
-2026-02-16 09:52:26,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-17 09:50:37,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 CCTV-15,http://69.30.246.194/live/cctv15.m3u8
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
@@ -29,7 +28,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
@@ -61,7 +60,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
@@ -119,6 +117,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 
 🎥咪咕直播,#genre#
@@ -130,3 +129,5 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
