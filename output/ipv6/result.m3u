@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lhhs111/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-26 09:47:52
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-27 09:46:41
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -1591,6 +1591,8 @@ http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/衡水公共.png" group-title="☘️河北频道",衡水公共
 http://ls.qingting.fm/live/2810.m3u8
+#EXTINF:-1 tvg-name="滦平新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滦平新闻.png" group-title="☘️河北频道",滦平新闻
+http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="☘️河北频道",河北农民
 https://ls.qingting.fm/live/1650/64k.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="☘️河北频道",河北农民
