@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 09:50:44,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+2026-03-10 09:43:55,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
@@ -17,8 +17,10 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 📡卫视频道,#genre#
 浙江卫视,http://39.152.103.17:8089/tsfile/live/1037_1.m3u8
 湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
 吉林卫视,http://1.31.14.70:54321/hls/5/index.m3u8
+江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
 辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
@@ -33,7 +35,6 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
@@ -47,6 +48,7 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
 
