@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-13 10:23:05,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+2026-07-14 10:03:00,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
+CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
@@ -17,8 +18,8 @@ CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -28,9 +29,9 @@ CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-河南卫视,http://101.66.198.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
 
@@ -46,6 +47,7 @@ CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -62,7 +64,6 @@ CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 
